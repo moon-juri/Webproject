@@ -1,7 +1,7 @@
 {
-    "python.pythonPath": "C:\\Users\\USER\\.virtualenvs\\web_project-pyKUGi9x\\Scripts\\python.exe",
-    "python.linting.pylintEnabled": false,
-    "python.linting.flake8Enabled": true,
+    "python.pythonPath": "/Users/jelly/opt/anaconda3/envs/django/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
     "python.linting.enabled": true,
     "python.formatting.provider": "black",
 }
